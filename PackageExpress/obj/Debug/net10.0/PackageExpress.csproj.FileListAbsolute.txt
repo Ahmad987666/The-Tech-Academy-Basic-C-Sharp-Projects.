@@ -1,0 +1,14 @@
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/bin/Debug/net10.0/PackageExpress
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/bin/Debug/net10.0/PackageExpress.deps.json
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/bin/Debug/net10.0/PackageExpress.runtimeconfig.json
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/bin/Debug/net10.0/PackageExpress.dll
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/bin/Debug/net10.0/PackageExpress.pdb
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/PackageExpress.AssemblyInfoInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/PackageExpress.AssemblyInfo.cs
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/PackageExpress.csproj.CoreCompileInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/PackageExpress.dll
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/refint/PackageExpress.dll
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/PackageExpress.pdb
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/PackageExpress.genruntimeconfig.cache
+/Users/tamim/Documents/GitHub/C# Programming/PackageExpress/obj/Debug/net10.0/ref/PackageExpress.dll
