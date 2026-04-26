@@ -1,0 +1,45 @@
+@model CarInsurance.Models.Insuree
+
+@{
+    ViewData["Title"] = "Insuree Details";
+}
+
+<h1>Insuree Details</h1>
+
+<dl class="row">
+    <dt class="col-sm-2">First Name</dt>
+    <dd class="col-sm-10">@Model.FirstName</dd>
+
+    <dt class="col-sm-2">Last Name</dt>
+    <dd class="col-sm-10">@Model.LastName</dd>
+
+    <dt class="col-sm-2">Email</dt>
+    <dd class="col-sm-10">@Model.EmailAddress</dd>
+
+    <dt class="col-sm-2">Date of Birth</dt>
+    <dd class="col-sm-10">@Model.DateOfBirth.ToShortDateString()</dd>
+
+    <dt class="col-sm-2">Car Year</dt>
+    <dd class="col-sm-10">@Model.CarYear</dd>
+
+    <dt class="col-sm-2">Car Make</dt>
+    <dd class="col-sm-10">@Model.CarMake</dd>
+
+    <dt class="col-sm-2">Car Model</dt>
+    <dd class="col-sm-10">@Model.CarModel</dd>
+
+    <dt class="col-sm-2">DUI</dt>
+    <dd class="col-sm-10">@Model.DUI</dd>
+
+    <dt class="col-sm-2">Speeding Tickets</dt>
+    <dd class="col-sm-10">@Model.SpeedingTickets</dd>
+
+    <dt class="col-sm-2">Full Coverage</dt>
+    <dd class="col-sm-10">@Model.FullCoverage</dd>
+
+    <dt class="col-sm-2">Quote</dt>
+    <dd class="col-sm-10">@Model.Quote.ToString("C")</dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+<a asp-action="Index">Back to List</a>

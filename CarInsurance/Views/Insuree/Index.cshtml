@@ -1,0 +1,45 @@
+@model IEnumerable<CarInsurance.Models.Insuree>
+
+@{
+    ViewData["Title"] = "Insurees";
+}
+
+<h1>Insurees</h1>
+
+<p>
+    <a asp-action="Create">Create New</a> |
+    <a asp-action="Admin">Admin View</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Date of Birth</th>
+            <th>Car</th>
+            <th>Quote</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.EmailAddress</td>
+                <td>@item.DateOfBirth.ToShortDateString()</td>
+                <td>@item.CarYear @item.CarMake @item.CarModel</td>
+                <td>@item.Quote.ToString("C")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
