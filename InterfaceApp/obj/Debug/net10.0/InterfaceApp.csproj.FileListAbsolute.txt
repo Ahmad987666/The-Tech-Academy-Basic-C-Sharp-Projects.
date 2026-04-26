@@ -1,0 +1,15 @@
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/bin/Debug/net10.0/InterfaceApp
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/bin/Debug/net10.0/InterfaceApp.deps.json
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/bin/Debug/net10.0/InterfaceApp.runtimeconfig.json
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/bin/Debug/net10.0/InterfaceApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/bin/Debug/net10.0/InterfaceApp.pdb
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.AssemblyInfoInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.AssemblyInfo.cs
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.csproj.CoreCompileInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.sourcelink.json
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/refint/InterfaceApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.pdb
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/InterfaceApp.genruntimeconfig.cache
+/Users/tamim/Documents/GitHub/C# Programming/InterfaceApp/obj/Debug/net10.0/ref/InterfaceApp.dll
