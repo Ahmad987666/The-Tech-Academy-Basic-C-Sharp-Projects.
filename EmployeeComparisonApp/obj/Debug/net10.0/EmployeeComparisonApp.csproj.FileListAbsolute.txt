@@ -1,0 +1,15 @@
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.AssemblyInfoInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.AssemblyInfo.cs
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.csproj.CoreCompileInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.sourcelink.json
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/bin/Debug/net10.0/EmployeeComparisonApp
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/bin/Debug/net10.0/EmployeeComparisonApp.deps.json
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/bin/Debug/net10.0/EmployeeComparisonApp.runtimeconfig.json
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/bin/Debug/net10.0/EmployeeComparisonApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/bin/Debug/net10.0/EmployeeComparisonApp.pdb
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/refint/EmployeeComparisonApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.pdb
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/EmployeeComparisonApp.genruntimeconfig.cache
+/Users/tamim/Documents/GitHub/C# Programming/EmployeeComparisonApp/obj/Debug/net10.0/ref/EmployeeComparisonApp.dll
