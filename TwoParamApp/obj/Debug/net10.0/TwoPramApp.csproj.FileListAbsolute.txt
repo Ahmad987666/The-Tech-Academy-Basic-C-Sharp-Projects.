@@ -1,0 +1,15 @@
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/bin/Debug/net10.0/TwoPramApp
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/bin/Debug/net10.0/TwoPramApp.deps.json
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/bin/Debug/net10.0/TwoPramApp.runtimeconfig.json
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/bin/Debug/net10.0/TwoPramApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/bin/Debug/net10.0/TwoPramApp.pdb
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.AssemblyInfoInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.AssemblyInfo.cs
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.csproj.CoreCompileInputs.cache
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.sourcelink.json
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/refint/TwoPramApp.dll
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.pdb
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/TwoPramApp.genruntimeconfig.cache
+/Users/tamim/Documents/GitHub/C# Programming/TwoParamApp/obj/Debug/net10.0/ref/TwoPramApp.dll
